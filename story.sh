@@ -140,7 +140,7 @@ while true; do
     # Prompt the user to continue
     echo
     echo
-    echo "Continue? (y/n) "
+    echo "Update and try again? (y/n) "
     read continue
     
     # Exit if the user enters "n"
